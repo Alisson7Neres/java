@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/home/neres/Documentos/IDE/Eclipse-IDE Livro Java 8/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+715199751.index
+252823387.index
+1993239226.index
+4140040332.index
+4085959842.index
+855797116.index

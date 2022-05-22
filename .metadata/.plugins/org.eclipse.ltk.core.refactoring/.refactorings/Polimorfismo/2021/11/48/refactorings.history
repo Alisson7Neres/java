@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;abstrata.Pesssoa&apos; to &apos;Pessoa&apos;&#x0A;- Original project: &apos;Polimorfismo&apos;&#x0A;- Original element: &apos;abstrata.Pesssoa&apos;&#x0A;- Renamed element: &apos;abstrata.Pessoa&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Pesssoa&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;abstrata{Pesssoa.java[Pesssoa" matchStrategy="1" name="Pessoa" qualified="false" references="true" similarDeclarations="false" stamp="1637934785590" textual="false" version="1.0"/>
+</session>

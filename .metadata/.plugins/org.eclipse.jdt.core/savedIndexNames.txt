@@ -1,0 +1,22 @@
+INDEX VERSION 1.131+/home/neres/Documentos/IDE/Eclipse-IDE Livro Java 8/.metadata/.plugins/org.eclipse.jdt.core
+715345095.index
+4140040332.index
+538316778.index
+1278350309.index
+1961865682.index
+80537675.index
+4027350634.index
+646308851.index
+1678551828.index
+4172165793.index
+611947347.index
+206297761.index
+687794749.index
+2738824068.index
+1226158114.index
+231754491.index
+1117461127.index
+3228811285.index
+2953509316.index
+2566619420.index
+441324566.index

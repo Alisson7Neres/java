@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<server port="8080">
+  <module context="basic-webapp" name="banco" path="/home/neres/Documentos/IDE/Eclipse-IDE Livro Java 8/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/banco" type="j2ee"/>
+</server>

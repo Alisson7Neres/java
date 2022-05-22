@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+html {
+	background-color: purple;
+}
+
+nav {
+	background-color: black;
+}
+
+.divNav {
+	color: orange;
+	font-weight: bold;
+}
+
+a{
+	padding: 10px;
+}
+
+form {
+	margin: 10px;
+}
